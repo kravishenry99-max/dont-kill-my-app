@@ -1,4 +1,4 @@
----
+infinix note 12---
 manufacturer:
     - general
 ---
